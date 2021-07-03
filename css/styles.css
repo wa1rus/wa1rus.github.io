@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(43, 198, 226);
+}
+p {
+    color:red;
+    float:inline-end;
+    font-size:400%;
+}
